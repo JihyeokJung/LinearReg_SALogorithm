@@ -4,3 +4,5 @@
 Preview
 
 
+<img width="654" alt="스크린샷 2023-06-28 오후 12 20 30" src="https://github.com/JihyeokJung/LinearReg_SALogorithm/assets/115938270/be1b14b1-731a-44d1-bb64-6d3bf97ae8e2">
+<img width="626" alt="스크린샷 2023-06-28 오후 12 20 43" src="https://github.com/JihyeokJung/LinearReg_SALogorithm/assets/115938270/7b4f5a86-26de-4d9f-b25c-40365142b6a1">
